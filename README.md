@@ -1,9 +1,12 @@
-# Saber
-# a arch rice
+# Michaelsoft Binbows
+## a hyprland rice
 by skitso-franic
 
 > [!IMPORTANT]
 > this rice work in progress
 > expect bugs
 
-# Dependencies
+> [!NOTE]
+> the intended way to install this
+> is by useing arch install
+> 

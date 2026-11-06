@@ -9,4 +9,5 @@ by skitso-franic
 > [!NOTE]
 > the intended way to install this
 > is by useing arch install
-> 
+> and selecting hyprland profile with
+> ly login manager 
